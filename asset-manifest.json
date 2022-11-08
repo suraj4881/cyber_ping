@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/suraj4881/cyber_ping.git/static/css/main.07f2c580.css",
-    "main.js": "/suraj4881/cyber_ping.git/static/js/main.103689ba.js",
-    "static/media/Vector2.png": "/suraj4881/cyber_ping.git/static/media/Vector2.00a8dd755a687009a611.png",
-    "static/media/Vector1.png": "/suraj4881/cyber_ping.git/static/media/Vector1.d6e5a50dae3c51cd189c.png",
-    "static/media/Vector.png": "/suraj4881/cyber_ping.git/static/media/Vector.aff56809dfb5fde1b6cb.png",
-    "static/media/wave.png": "/suraj4881/cyber_ping.git/static/media/wave.fdfef4069ad90f610990.png",
-    "index.html": "/suraj4881/cyber_ping.git/index.html",
-    "main.07f2c580.css.map": "/suraj4881/cyber_ping.git/static/css/main.07f2c580.css.map",
-    "main.103689ba.js.map": "/suraj4881/cyber_ping.git/static/js/main.103689ba.js.map"
+    "main.css": "/cyber_ping/static/css/main.07f2c580.css",
+    "main.js": "/cyber_ping/static/js/main.f34892e9.js",
+    "static/media/Vector2.png": "/cyber_ping/static/media/Vector2.00a8dd755a687009a611.png",
+    "static/media/Vector1.png": "/cyber_ping/static/media/Vector1.d6e5a50dae3c51cd189c.png",
+    "static/media/Vector.png": "/cyber_ping/static/media/Vector.aff56809dfb5fde1b6cb.png",
+    "static/media/wave.png": "/cyber_ping/static/media/wave.fdfef4069ad90f610990.png",
+    "index.html": "/cyber_ping/index.html",
+    "main.07f2c580.css.map": "/cyber_ping/static/css/main.07f2c580.css.map",
+    "main.f34892e9.js.map": "/cyber_ping/static/js/main.f34892e9.js.map"
   },
   "entrypoints": [
     "static/css/main.07f2c580.css",
-    "static/js/main.103689ba.js"
+    "static/js/main.f34892e9.js"
   ]
 }
